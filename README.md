@@ -1,6 +1,6 @@
 # AI Generative Image Web App
 
-![AI Generative Image Web App](/ai-img.png?raw=true "Screenshot")
+![AI Generative Image Web App](/ai_img.png?raw=true "Screenshot")
 
 ## Overview
 
