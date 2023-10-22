@@ -78,3 +78,6 @@ Then, enter the following at the terminal to download the required dependencies 
     npm install
     npm run dev
     
+## Acknowledgments
+
+We would like to extend our gratitude to Adrian Hajdin, the JavaScript Mastery, whose tutorial and guidance have helped shape this remarkable project. If you're   interested in exploring more of Adrian's work, be sure to check out his GitHub repository at [Adrian Hajdin - JS Mastery](https://github.com/adrianhajdin).
