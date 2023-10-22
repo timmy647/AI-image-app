@@ -75,7 +75,7 @@ The frontend is implemented with React and Tailwind CSS.
 
 Then, enter the following at the terminal to download the required dependencies and run the frontend at localhost:5173.
     
-    ```
+    
     npm install
     npm run dev
-    ```
+    
