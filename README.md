@@ -26,9 +26,6 @@ The **AI Generative Image Web App** is a creative platform that allows users to 
 
 - **OpenAI API**: The OpenAI API is used to integrate DALL·E AI for image generation capabilities.
 
-## Getting Started
-
-To explore and interact with the AI Generative Image Web App, simply visit the website at [insert-link-to-website](insert-link-to-website).
 
 ## Acknowledgments
 
